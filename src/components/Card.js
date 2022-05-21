@@ -11,6 +11,7 @@ function Card(props) {
                     <h1 className='title'>{ item.title}</h1>
                     <p className='sdate-edate'>{ item.startDate} - { item.endDate}</p>
                     <p className='txt'>{ item.description}</p>
+                    <p className='txt'>{ item.description}</p>
                 </div>
             </div>
         )    
